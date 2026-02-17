@@ -1,0 +1,49 @@
+[
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "choices": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": 2,
+    "explanation": "Mars is called the Red Planet because of iron oxide (rust) on its surface."
+  },
+  {
+    "question": "What does HTML stand for?",
+    "choices": [
+      "Hyper Trainer Marking Language",
+      "HyperText Markup Language",
+      "Home Tool Markup Language",
+      "HighText Machine Language"
+    ],
+    "answer": 2,
+    "explanation": "HTML stands for HyperText Markup Language."
+  },
+  {
+    "question": "In Python, which symbol starts a comment?",
+    "choices": ["//", "#", "<!--", "**"],
+    "answer": 2,
+    "explanation": "In Python, comments start with #."
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "choices": ["5", "6", "7", "8"],
+    "answer": 2,
+    "explanation": "A hexagon has 6 sides."
+  },
+  {
+    "question": "What is 9 x 7?",
+    "choices": ["56", "63", "72", "79"],
+    "answer": 2,
+    "explanation": "9 multiplied by 7 equals 63."
+  },
+  {
+    "question": "Which data type is best for true/false values in Python?",
+    "choices": ["int", "str", "bool", "list"],
+    "answer": 3,
+    "explanation": "The bool type stores True or False."
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "choices": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "answer": 4,
+    "explanation": "The Pacific Ocean is the largest ocean on Earth."
+  }
+]
