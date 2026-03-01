@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What type of group is KATSEYE?",
+    "choices": [
+      "A co-ed rock band",
+      "A global girl group",
+      "A solo artist project",
+      "A dance crew with no singers"
+    ],
+    "answer": 2,
+    "explanation": "KATSEYE is a global girl group formed through a survival project."
+  },
+  {
+    "question": "KATSEYE was formed through which project?",
+    "choices": [
+      "Dream Academy",
+      "Kingdom",
+      "Road to Queendom",
+      "I-LAND"
+    ],
+    "answer": 1,
+    "explanation": "The group lineup came from the Dream Academy project."
+  },
+  {
+    "question": "How many members are in KATSEYE?",
+    "choices": ["5", "6", "7", "9"],
+    "answer": 2,
+    "explanation": "KATSEYE has 6 members."
+  },
+  {
+    "question": "Which word best describes KATSEYE's concept?",
+    "choices": ["Single-country only", "Global and multicultural", "Classical orchestra", "Heavy metal"],
+    "answer": 2,
+    "explanation": "KATSEYE is known for a global, multicultural identity."
+  },
+  {
+    "question": "In K-Pop Demon Hunters, what is the main threat the heroes face?",
+    "choices": ["Alien robots", "Demonic forces", "Time-travel glitches", "Zombie dinosaurs"],
+    "answer": 2,
+    "explanation": "The movie's title and premise center around demon hunting."
+  },
+  {
+    "question": "What genre blend best fits K-Pop Demon Hunters?",
+    "choices": ["Sports documentary", "Historical war drama", "Music + action + fantasy", "Cooking reality show"],
+    "answer": 3,
+    "explanation": "The film combines K-pop performance energy with action and fantasy themes."
+  },
+  {
+    "question": "Why is choreography important in a K-pop-themed action movie?",
+    "choices": [
+      "It helps tell character and fight rhythm",
+      "It replaces all dialogue",
+      "It removes the need for music",
+      "It is unrelated to action scenes"
+    ],
+    "answer": 1,
+    "explanation": "Dance movement can support both storytelling and action pacing."
+  },
+  {
+    "question": "Which of these is a likely visual style in K-Pop Demon Hunters?",
+    "choices": [
+      "Plain office lighting and no color",
+      "Bold neon stages and supernatural effects",
+      "Black-and-white silent film look",
+      "No costumes, only uniforms"
+    ],
+    "answer": 2,
+    "explanation": "K-pop and fantasy action typically use vivid visuals and effects."
+  },
+  {
+    "question": "What shared theme links KATSEYE and K-Pop Demon Hunters?",
+    "choices": [
+      "Teamwork under pressure",
+      "No performance elements",
+      "Only acoustic folk music",
+      "Zero choreography"
+    ],
+    "answer": 1,
+    "explanation": "Both center on coordinated group performance and teamwork."
+  },
+  {
+    "question": "Which activity sounds most like a Lily Quiz bonus challenge?",
+    "choices": [
+      "Design a fan lightstick and explain its symbol",
+      "Solve a calculus proof",
+      "Translate ancient Latin manuscripts",
+      "Build a submarine engine"
+    ],
+    "answer": 1,
+    "explanation": "A creative K-pop themed challenge fits the Lily Quiz style."
+  }
+]
