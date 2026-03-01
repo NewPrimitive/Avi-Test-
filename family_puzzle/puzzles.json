@@ -1,0 +1,51 @@
+[
+  {
+    "type": "word",
+    "prompt": "Unscramble the letters to make a fantasy creature: RODGAN",
+    "answer": "dragon",
+    "hint": "It breathes fire in many stories.",
+    "explanation": "The letters in RODGAN rearrange to DRAGON."
+  },
+  {
+    "type": "math",
+    "prompt": "I am an odd number. Take away one letter and I become even. What number am I?",
+    "answer": "seven",
+    "hint": "Think about spelling, not arithmetic.",
+    "explanation": "SEVEN becomes EVEN when you remove the first letter."
+  },
+  {
+    "type": "logic",
+    "prompt": "You see me once in June, twice in November, and not at all in May. What am I?",
+    "answer": "the letter e",
+    "hint": "Look at letters in the words, not months on a calendar.",
+    "explanation": "The letter 'e' appears once in June, twice in November, and zero times in May."
+  },
+  {
+    "type": "math",
+    "prompt": "What is 9 + 9 \u00f7 3?",
+    "answer": "12",
+    "hint": "Use order of operations.",
+    "explanation": "Do division first: 9 \u00f7 3 = 3, then add 9 + 3 = 12."
+  },
+  {
+    "type": "logic",
+    "prompt": "What has to be broken before you can use it?",
+    "answer": "an egg",
+    "hint": "It is common at breakfast.",
+    "explanation": "You break an egg shell before cooking or using the egg."
+  },
+  {
+    "type": "word",
+    "prompt": "What 5-letter word becomes shorter when you add two letters to it?",
+    "answer": "short",
+    "hint": "The answer is hidden in the riddle itself.",
+    "explanation": "SHORT + 'er' = SHORTER."
+  },
+  {
+    "type": "logic",
+    "prompt": "The more of this there is, the less you see. What is it?",
+    "answer": "darkness",
+    "hint": "Think about nighttime.",
+    "explanation": "The darker it is, the less you can see."
+  }
+]
