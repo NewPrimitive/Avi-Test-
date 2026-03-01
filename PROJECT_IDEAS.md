@@ -2,6 +2,10 @@
 
 These ideas are beginner-friendly and can be built in small steps with Codex.
 
+## Current Game Library
+- `family_quiz/quiz.py` — Family Quiz Game
+- `family_puzzle/puzzle_game.py` — Family Puzzle Game
+
 ## 1) Family Quiz Game (Terminal or Web)
 - Build a multiple-choice quiz on topics your son likes (animals, space, Minecraft, soccer).
 - Concepts: variables, conditionals, loops, lists, scoring.
