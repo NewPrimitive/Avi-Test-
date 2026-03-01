@@ -41,3 +41,21 @@ Tips:
 - Keep answers simple and kid-friendly.
 - Use puzzle types like `word`, `math`, or `logic`.
 - Add more puzzles to increase replay variety.
+
+
+## Audio word puzzle mode
+
+Want a puzzle where you **hear parts of words** and put them together?
+
+Run:
+
+```bash
+python3 family_puzzle/audio_word_puzzle.py
+```
+
+How it works:
+- The game reads puzzles from `audio_puzzles.json`.
+- For each puzzle, press Enter to play the word parts.
+- Type the full combined word (example: `rain` + `bow` -> `rainbow`).
+- If your system has `say`, `espeak`, or `spd-say`, it will speak out loud.
+- If none are installed, it falls back to printed "audio" clues.
