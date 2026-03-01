@@ -1,0 +1,44 @@
+[
+  {
+    "prompt": "Listen to the two parts and combine them into one word.",
+    "parts": ["rain", "bow"],
+    "answer": "rainbow",
+    "hint": "You can often see it after rain and sunshine.",
+    "explanation": "RAIN + BOW makes RAINBOW."
+  },
+  {
+    "prompt": "Listen carefully and join the sounds into one word.",
+    "parts": ["sun", "flower"],
+    "answer": "sunflower",
+    "hint": "It is a tall yellow flower.",
+    "explanation": "SUN + FLOWER makes SUNFLOWER."
+  },
+  {
+    "prompt": "Hear the parts and make the full word.",
+    "parts": ["foot", "ball"],
+    "answer": "football",
+    "hint": "A popular game played with a ball.",
+    "explanation": "FOOT + BALL makes FOOTBALL."
+  },
+  {
+    "prompt": "Press Enter to hear each part, then combine them.",
+    "parts": ["cup", "cake"],
+    "answer": "cupcake",
+    "hint": "A small sweet dessert with frosting.",
+    "explanation": "CUP + CAKE makes CUPCAKE."
+  },
+  {
+    "prompt": "Listen to the parts and say the combined word.",
+    "parts": ["tooth", "brush"],
+    "answer": "toothbrush",
+    "hint": "You use this every morning and night.",
+    "explanation": "TOOTH + BRUSH makes TOOTHBRUSH."
+  },
+  {
+    "prompt": "Build one word from the parts you hear.",
+    "parts": ["star", "fish"],
+    "answer": "starfish",
+    "hint": "A sea creature shaped like a star.",
+    "explanation": "STAR + FISH makes STARFISH."
+  }
+]
